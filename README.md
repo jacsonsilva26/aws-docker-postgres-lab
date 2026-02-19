@@ -92,6 +92,33 @@ Infraestrutura composta por:
 
 ---
 
+## 🎓 Competências Desenvolvidas com EC2
+
+Durante a criação e gerenciamento da instância EC2, foram aplicados os seguintes conceitos:
+
+- Provisionamento de servidor web com proteção contra encerramento ativada
+- Monitoramento da instância utilizando métricas do Amazon CloudWatch
+- Configuração e modificação de Security Groups para liberação de acesso HTTP (porta 80)
+- Redimensionamento (Change Instance Type) conforme necessidade de recursos
+- Teste prático da funcionalidade de proteção contra encerramento
+- Encerramento seguro da instância após validação do ambiente
+
+## 🔄 Gestão do Ciclo de Vida da Instância
+
+Neste laboratório foram aplicadas práticas reais de administração de infraestrutura, incluindo:
+
+- Criação
+- Monitoramento
+- Alteração de configuração
+- Escalonamento vertical
+- Controle de segurança
+- Encerramento controlado
+
+Simulando um cenário corporativo de gestão de servidores em nuvem.
+
+
+---
+
 ## 👨‍💻 Autor
 
 Jacson Silva  
